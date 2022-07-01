@@ -12,12 +12,12 @@
     {
         "name": "chocolate bar",
         "price": 0.85,
-        "category": "chocolates"
+        "category": "food"
     },
     {
         "name": "imported box of chocolates",
         "price": 10,
-        "category": "chocolates"
+        "category": "food"
     },
     {
         "name": "imported bottle of perfume merk A",
@@ -37,11 +37,11 @@
     {
         "name": "packet of headache pills",
         "price": 9.75,
-        "category": "perfume"
+        "category": "medical"
     },
     {
         "name": "box of imported chocolates",
         "price": 11.25,
-        "category": "chocolates"
+        "category": "food"
     }
 ]

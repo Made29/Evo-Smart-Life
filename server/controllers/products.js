@@ -1,7 +1,6 @@
 const { Products } = require("../models")
 
 class Controller{
-    //menampilkan semua product 
     static async getAllProducts(req, res){
         try{
             const products = await Products.findAll({
