@@ -1,0 +1,47 @@
+[
+    {
+        "name": "book",
+        "price": 12.49,
+        "category": "book"
+    },
+    {
+        "name": "music CD",
+        "price": 14.99,
+        "category": "music"
+    },
+    {
+        "name": "chocolate bar",
+        "price": 0.85,
+        "category": "chocolates"
+    },
+    {
+        "name": "imported box of chocolates",
+        "price": 10,
+        "category": "chocolates"
+    },
+    {
+        "name": "imported bottle of perfume merk A",
+        "price": 47.5,
+        "category": "perfume"
+    },
+    {
+        "name": "imported bottle of perfume merk B",
+        "price": 27.99,
+        "category": "perfume"
+    },
+    {
+        "name": "bottle of perfume",
+        "price": 18.99,
+        "category": "perfume"
+    },
+    {
+        "name": "packet of headache pills",
+        "price": 9.75,
+        "category": "perfume"
+    },
+    {
+        "name": "box of imported chocolates",
+        "price": 11.25,
+        "category": "chocolates"
+    }
+]
